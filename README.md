@@ -1,0 +1,1 @@
+This repository contains various small projects and code snippets for practicing backend development with Node.js, Express, and more.
